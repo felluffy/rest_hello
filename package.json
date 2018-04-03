@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "restful api to get a message from a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nasif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
